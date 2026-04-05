@@ -9,8 +9,6 @@
 //! [official implementation]: https://github.com/arcweave/arcscript-interpreters/tree/main
 //! [nom]: https://docs.rs/nom/latest/nom/
 
-#![warn(missing_docs)]
-
 pub mod project;
 pub mod script;
 
